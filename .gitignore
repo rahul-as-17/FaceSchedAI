@@ -1,4 +1,18 @@
+<<<<<<< HEAD
 venv311/ 
 .streamlit/secrets.toml 
 __pycache__/ 
 *.xlsx 
+=======
+# Ignore the virtual environment folder
+venv311/
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+>>>>>>> 3b23c4c05e56e9eece1469dcde833bf2aa60c64d
